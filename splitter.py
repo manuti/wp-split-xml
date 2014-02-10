@@ -5,7 +5,7 @@
 # the number of occurences of a particular line, '\n' by default, and breaking up the
 # such that each chunk has an equal number occurences of that line. The appropriate header
 # and footer is added to each chunk.
-# Original de 
+# Original de Eraac http://wordpress.org/support/topic/wxr-file-splitter
  
 import os
 import sys
